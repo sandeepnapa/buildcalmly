@@ -1,0 +1,267 @@
+{
+  "bad/absolute-tolerance.md": {
+    "base": "agent",
+    "expect": [
+      "SL-06.5"
+    ],
+    "profile": "agent"
+  },
+  "bad/ambiguous-referent.md": {
+    "base": "product",
+    "expect": [
+      "SL-04.3"
+    ],
+    "profile": "product"
+  },
+  "bad/aspiration-without-metric.md": {
+    "base": "product",
+    "expect": [
+      "SL-01.3"
+    ],
+    "profile": "product"
+  },
+  "bad/authority-without-tiers.md": {
+    "base": "product",
+    "expect": [
+      "SL-02.1",
+      "SL-02.2"
+    ],
+    "profile": "product"
+  },
+  "bad/check-placeholder.md": {
+    "base": "product",
+    "expect": [
+      "SL-01.2"
+    ],
+    "profile": "product"
+  },
+  "bad/default-without-override.md": {
+    "base": "product",
+    "expect": [
+      "SL-01.4"
+    ],
+    "profile": "product"
+  },
+  "bad/enumeration-bloat.md": {
+    "base": "product",
+    "expect": [
+      "SL-05.1"
+    ],
+    "profile": "product"
+  },
+  "bad/escape-hatch-reworded.md": {
+    "base": "agent",
+    "expect": [],
+    "profile": "agent"
+  },
+  "bad/long-and-late.md": {
+    "base": "product",
+    "expect": [
+      "SL-09.2",
+      "SL-09.3"
+    ],
+    "profile": "product"
+  },
+  "bad/never-refuses.md": {
+    "base": "product",
+    "expect": [
+      "SL-03.2",
+      "SL-05.3"
+    ],
+    "profile": "product"
+  },
+  "bad/no-acceptance-criteria.md": {
+    "base": "product",
+    "expect": [
+      "SL-06.1",
+      "SL-06.4"
+    ],
+    "profile": "product"
+  },
+  "bad/no-action-classes.md": {
+    "base": "agent",
+    "expect": [
+      "SL-08.1"
+    ],
+    "profile": "agent"
+  },
+  "bad/no-escape-hatch.md": {
+    "base": "agent",
+    "expect": [
+      "SL-05.3"
+    ],
+    "profile": "agent"
+  },
+  "bad/no-eval-contract.md": {
+    "base": "product",
+    "expect": [
+      "SL-06.4"
+    ],
+    "profile": "product"
+  },
+  "bad/no-expiry.md": {
+    "base": "product",
+    "expect": [
+      "SL-06.3"
+    ],
+    "profile": "product"
+  },
+  "bad/no-feedback-gate.md": {
+    "base": "product",
+    "expect": [
+      "SL-06.2"
+    ],
+    "profile": "product"
+  },
+  "bad/no-grounding-policy.md": {
+    "base": "eval",
+    "expect": [
+      "SL-07.2"
+    ],
+    "profile": "eval"
+  },
+  "bad/no-known-tensions.md": {
+    "base": "product",
+    "expect": [
+      "SL-02.3"
+    ],
+    "profile": "product"
+  },
+  "bad/no-model-assumptions.md": {
+    "base": "agent",
+    "expect": [
+      "SL-06.6"
+    ],
+    "profile": "agent"
+  },
+  "bad/no-non-goals.md": {
+    "base": "product",
+    "expect": [
+      "SL-03.1"
+    ],
+    "profile": "product"
+  },
+  "bad/no-precedence.md": {
+    "base": "product",
+    "expect": [
+      "SL-02.2"
+    ],
+    "profile": "product"
+  },
+  "bad/no-resource-budget.md": {
+    "base": "agent",
+    "expect": [
+      "SL-08.2"
+    ],
+    "profile": "agent"
+  },
+  "bad/no-tradeoffs.md": {
+    "base": "product",
+    "expect": [
+      "SL-09.4"
+    ],
+    "profile": "product"
+  },
+  "bad/no-trust-boundary.md": {
+    "base": "agent",
+    "expect": [
+      "SL-07.1"
+    ],
+    "profile": "agent"
+  },
+  "bad/no-version.md": {
+    "base": "product",
+    "expect": [
+      "SL-09.1"
+    ],
+    "profile": "product"
+  },
+  "bad/principle-without-examples.md": {
+    "base": "product",
+    "expect": [
+      "SL-05.2"
+    ],
+    "profile": "product"
+  },
+  "bad/rules-without-checks.md": {
+    "base": "product",
+    "expect": [
+      "SL-01.2"
+    ],
+    "profile": "product"
+  },
+  "bad/scope-creep-verbs.md": {
+    "base": "product",
+    "expect": [
+      "SL-03.3"
+    ],
+    "profile": "product"
+  },
+  "bad/thin-non-goals.md": {
+    "base": "product",
+    "expect": [
+      "SL-03.1"
+    ],
+    "profile": "product"
+  },
+  "bad/two-demands-one-line.md": {
+    "base": "product",
+    "expect": [
+      "SL-04.2"
+    ],
+    "profile": "product"
+  },
+  "bad/two-demands-wrapped.md": {
+    "base": "product",
+    "expect": [
+      "SL-04.2"
+    ],
+    "profile": "product"
+  },
+  "bad/ungradeable-acceptance.md": {
+    "base": "product",
+    "expect": [
+      "SL-06.1"
+    ],
+    "profile": "product"
+  },
+  "bad/untyped-requirement.md": {
+    "base": "product",
+    "expect": [
+      "SL-01.1"
+    ],
+    "profile": "product"
+  },
+  "bad/weasel-words.md": {
+    "base": "product",
+    "expect": [
+      "SL-04.1"
+    ],
+    "profile": "product"
+  },
+  "bad/wrapped-aspiration.md": {
+    "base": "product",
+    "expect": [],
+    "profile": "product"
+  },
+  "good/agent-clean.md": {
+    "base": "agent",
+    "expect": [],
+    "profile": "agent"
+  },
+  "good/eval-clean.md": {
+    "base": "eval",
+    "expect": [],
+    "profile": "eval"
+  },
+  "good/interface-manifest.md": {
+    "base": "product",
+    "expect": [],
+    "profile": "product"
+  },
+  "good/product-clean.md": {
+    "base": "product",
+    "expect": [],
+    "profile": "product"
+  }
+}
