@@ -130,7 +130,7 @@ rather than inventing one.
 Two audiences read this. The record on disk gets the full grading. The person gets what it means,
 under "How to talk to the person" in `../workflow.md`.
 
-**To the person, in this order:**
+**To the person, first to last:**
 
 1. **The verdict in one sentence.** "The spec holds up." Or "the spec has a hole in it, here."
 2. **What is still soft**, one line each, each named as a thing in the world. A rule you are
@@ -156,7 +156,7 @@ real situation where two builders would build different things. This one is the 
 ### Closing gate 2, inside the loop
 
 Gate 2 is the last gate, so it closes the feature and it closes the engagement. `../workflow.md`
-under GATE 2 is the contract. Four things belong here, in this order:
+under GATE 2 is the contract. Four things belong here, first to last:
 
 1. **The progress marker.** Run `python3 ../calm-intake/scripts/say.py gate 2` and put its line at
    the top of the gate question. Never retype it. Say the sequence position in words beside it,

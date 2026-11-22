@@ -134,7 +134,7 @@ reasoning written down.
 
 ## Gathering the evidence
 
-When an item arrives without the fields AN-3, AN-4 and AN-8 need, ask the ladder, in this order,
+When an item arrives without the fields AN-3, AN-4 and AN-8 need, ask the ladder, first to last,
 about the last real occurrence rather than the future:
 
 1. "When did this last happen? Walk me through what you did."
